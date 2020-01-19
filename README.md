@@ -24,3 +24,6 @@ Each individual having their own thoughts and ideas is what makes us move forwar
 # Communication
 - Embrace asynchronous communication and make meetings your last resort
 - Always reply to people when they post comments on communication tools (Slack, Trello, Jira ...). What is sad is for a person to spend time writing a message and nobody replies or even reacts to it. If you don't know the answer point them to someone that might know
+
+# Ice Breakers/Small Talks
+- Ask about the weekend on Mondays and the plans for the weekend on Fridays
