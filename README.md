@@ -21,6 +21,7 @@ Each individual having their own thoughts and ideas is what makes us move forwar
 
 # Task Management
 - Reduce context switching as much as possible. Usually employees get frustrated when they have to work on 10 things at the same time. If there's no way around it, employers have to appreciate that employees are doing an extra cognitive effort and ensure them that they understand their struggles.
+- Allow employees to contribute to work outside their area of expertise. For example, software developers working on UX or UI design.
 
 # Office Management
 - Create a roster that will split office tasks across employees. Tasks can be as simple as cleaning up, time keeping, managing the fridge, picking up mail. This roster will change every month so that different employees always have different tasks.
